@@ -1,0 +1,14 @@
+D:\Program\Project\API-serv\bin\Debug\API-serv.deps.json
+D:\Program\Project\API-serv\bin\Debug\API-serv.runtimeconfig.json
+D:\Program\Project\API-serv\bin\Debug\appsettings.Development.json
+D:\Program\Project\API-serv\bin\Debug\appsettings.json
+D:\Program\Project\API-serv\bin\Debug\API-serv.exe
+D:\Program\Project\API-serv\bin\Debug\API-serv.dll
+D:\Program\Project\API-serv\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Program\Project\API-serv\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Program\Project\API-serv\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Program\Project\API-serv\bin\Debug\Microsoft.OpenApi.dll
+D:\Program\Project\API-serv\bin\Debug\API-serv.pdb
+D:\Program\Project\API-serv\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Program\Project\API-serv\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Program\Project\API-serv\obj\Debug\docker-c.35A3FFBA.Up2Date
